@@ -7,5 +7,6 @@ If you read a lot and that too on kindle then I'm sure you know vocabulary build
 So I have tried to make a simple GUI in pyhton using PyQt5 to access those words and get their meaning displayed.
 
 This is the simple UI of Vocabulary-Builder
+<br>
 ![alt text](VB_ui.png)
 
